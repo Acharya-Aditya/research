@@ -5,3 +5,9 @@
 2. Monte Carlo simulation of exit paths in Maier-Stein system
 3. Transition path gaussian noise sampling algorithm in paper (Need to?)
 3. Optimization using gillespie
+
+
+# INfo
+Concept - Metadynamics (the biasing function part)
+Gromacs - MD Simulation software
+Plumed - Patch on top of Gromacs
